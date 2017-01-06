@@ -23,25 +23,37 @@ The "Campus" tab shows GPS/IGS data for students accepted to the campus on the a
 on the left panel of the app. Below we can see a scatterplot, a boxplot, and a barplot for the Cayey campus 
 of students admitted in the academic year 2013-2014.
 
+![Alt](docs_images/campus_1.PNG?raw=true "Campus-wide plots") ![Alt](docs_images/campus_2.PNG?raw=true "Campus-wide plots")
+
+![Alt](docs_images/campus_3.PNG?raw=true "Campus-wide plots")
+
 ### Popular majors
 The tabs "Populares-F" and "Populares-M" show the most popular majors among incoming female and male students in a given academic year.
 Here are the most popular majors among incoming male students to the Humacao campus and the corresponding average IGS, 
 in the 2009-2010 academic year.
 
+![Alt](docs_images/populares.PNG?raw=true "Populares")
+
 ### Most competitive majors
 The "Selectivos" tab shows the most selective majors in a given campus on a given year, as well as the average IGS of students admitted 
 into those programs. For example, the most selective programs at UPR-Mayagüez, a.k.a. R.U.M., in the 2012-2013 academic year.
+
+![Alt](docs_images/selectivos.PNG?raw=true "Selectivos")
 
 ### High school provenance
 The "Escuelas" tab shows the high schools with the largest number of admitted students to a given campus on a given year. Here 
 are the hish schools with the most accepted students to the Río Piedras campus in 2013-2014.
 
+![Alt](docs_images/escuelas.PNG?raw=true "Escuelas")
+
 ### Top high schools
 "Escuelas Destacadas" shows the high schools with the highest average IGS on a given academic year. 
 The top high schools in the island of Puerto Rico! Here they are for the academic year 2011-2012.
 
+![Alt](docs_images/destacadas.PNG?raw=true "Destacadas")
+
 ### Table
-Interactive table that allows the user to filter the results.
+An interactive table that allows the user to filter the results.
 
 ## References
 1. Montijo, Adrián. (2014). ***Admitidos a la Universidad de Puerto Rico desde 2009 hasta 2013*** [CSV file]. Retrieved from https://data.pr.gov/en/Educaci-n/Admitidos-a-la-Universidad-de-Puerto-Rico-desde-20/uaij-e68c#column-menu
