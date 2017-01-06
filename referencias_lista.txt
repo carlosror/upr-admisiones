@@ -1,0 +1,21 @@
+Lista de referencias
+
+0. Dataset: https://data.pr.gov/en/Educaci-n/Admitidos-a-la-Universidad-de-Puerto-Rico-desde-20/uaij-e68c#column-menu
+
+1. colores http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/
+
+2. R in a Nutshell
+
+3. Data Analysis and Statistical Inference Coursera course
+
+4. R Cookbook http://www.cookbook-r.com/Graphs/Multiple_graphs_on_one_page_(ggplot2)/
+
+5. Quantiles http://www.r-tutor.com/elementary-statistics/numerical-measures/percentile
+
+6. Re-order factors http://www.r-bloggers.com/reorder-factor-levels-2/
+
+7. Create IGS buckets http://stackoverflow.com/questions/23316161/the-condition-has-length-1-and-only-the-first-element-will-be-used
+
+8. Rotating axis labels http://stackoverflow.com/questions/1330989/rotating-and-spacing-axis-labels-in-ggplot2
+
+9. Multiple plots: http://www.cookbook-r.com/Graphs/Multiple_graphs_on_one_page_(ggplot2)/
