@@ -2,7 +2,7 @@
 https://carlosgg.shinyapps.io/admisiones-upr/
 
 ## Motivation
-Given that the vast majority of Puertorrican high school graduates that pursue a higher education do so in 
+Given that the vast majority of Puerto Rican high school graduates that pursue a higher education do so in 
 the University of Puerto Rico (UPR) system, I thought it would be nice for a potential applicant to get an idea 
 of what it would take for her to get admitted to a given campus, in terms of GPA and IGS. The target audience 
 is a student in the ninth or tenth grade that wants to starts shaping her plans for the not-too-distant future.
